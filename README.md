@@ -13,6 +13,8 @@ My name is _Dmitrii Mishutin_. I'm a beginner backend developer.
 * 👯 I’m looking to collaborate on [SeriesFace](https://github.com/MeShootIn/SeriesFace)
 * ⚡ Fun fact: my nickname is made up of English words so that it sounds like my last name in Russian.
 
+![snk](https://raw.githubusercontent.com/MeShootIn/MeShootIn/output/github-contribution-grid-snake.svg)
+
 ### 📫 Connect with me
 
 <p>
