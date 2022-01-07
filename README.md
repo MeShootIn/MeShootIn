@@ -3,15 +3,18 @@
 My name is _Dmitrii Mishutin_. I'm a beginner backend developer.
 
 * 🔭 I’m currently working on:
-    * [Golang trading bot](https://github.com/MeShootIn/go-trading-bot)
-    * [SeriesFace](https://github.com/MeShootIn/SeriesFace)
-    * [VK chatbot](https://github.com/MeShootIn/vk-upload-bot)
+    * [Golang trading bot](https://github.com/MeShootIn/go-trading-bot) - trading bot for
+      the [Kraken Futures](https://futures.kraken.com/) platform with "stop-loss" and "take-profit" strategies
+    * [SeriesFace](https://github.com/MeShootIn/SeriesFace) - React.js app for face recognition
+    * [VK chatbot](https://github.com/MeShootIn/vk-upload-bot) - chatbot for downloading audio/video/voice messages
+      directly from VKontakte
 * 🌱 I’m currently learning on:
-    * [Tinkoff Golang course](https://fintech.tinkoff.ru/study/fintech/golang/)
-    * [Stepik Haskell course](https://stepik.org/course/75/promo)
-    * [Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/) (first-year master)
+    * [Tinkoff Golang course](https://fintech.tinkoff.ru/study/fintech/golang/) - three-month golang backend development
+      course
+    * [Stepik Haskell course](https://stepik.org/course/75/promo) - for learning the functional paradigm
+    * [Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/) - first-year master
 * 👯 I’m looking to collaborate on [SeriesFace](https://github.com/MeShootIn/SeriesFace)
-* ⚡ Fun fact: my nickname is made up of English words so that it sounds like my last name in Russian.
+* ⚡ Fun fact: my nickname is made up of English words so that it sounds like my last name in Russian
 
 ![snk](https://raw.githubusercontent.com/MeShootIn/MeShootIn/output/github-contribution-grid-snake.svg)
 
@@ -87,9 +90,9 @@ My name is _Dmitrii Mishutin_. I'm a beginner backend developer.
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
              height="40"/>
     </a>
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+    <a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/vinceliuice/Tela-icon-theme/master/src/scalable/apps/goland.svg"
-             alt="phpstorm" width="40" height="40"/>
+             alt="goland" width="40" height="40"/>
     </a>
     <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/vinceliuice/Tela-icon-theme/master/src/scalable/apps/phpstorm.svg"
@@ -99,6 +102,6 @@ My name is _Dmitrii Mishutin_. I'm a beginner backend developer.
 
 ### 📈 Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=meshootin&count_private=true&show_icons=true&show_icons=true&theme=jolly&custom_title=My%20GitHub%20stats&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=meshootin&count_private=true&show_icons=true&theme=jolly&custom_title=My%20GitHub%20stats&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshootin&layout=compact&hide=QMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
